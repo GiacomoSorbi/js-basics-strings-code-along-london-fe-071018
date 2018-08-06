@@ -1,2 +1,2 @@
 let currentUser = "pippi";
-let welcome
+let welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
